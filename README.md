@@ -1,1 +1,1 @@
-Laboratoare pentru facultate la Algoritmi Fundamentali si Fundamentele Programarii
+Laboratoare pentru facultate la Algoritmi Fundamentali si Fundamentele Programarii.
